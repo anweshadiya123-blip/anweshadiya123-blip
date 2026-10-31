@@ -5,15 +5,19 @@
 I'm a Computer Science and Engineering student interested in software development, problem-solving, and building practical applications.
 
 I enjoy exploring new technologies, learning how things work behind the scenes, and improving my programming skills through hands-on projects.
-
 ## 🚀 About Me
 
+![CSE Student](https://img.shields.io/badge/CSE-Student-blue?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
+![Software Engineer](https://img.shields.io/badge/Aspiring-Software_Engineer-purple?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Enthusiast-black?style=for-the-badge)
+
 - 🎓 Computer Science and Engineering student
-- 💻 Interested in Frontend Development and building user-friendly web applications
-- 🌱 Currently learning and improving my skills in Python, Django, and JavaScript
-- 🛠️ Exploring databases, web technologies, and application development
-- 🐧 Linux user who enjoys exploring and customizing the development environment
-- 🎯 Working towards becoming a skilled Software Engineer
+- 🎨 Frontend development is my favorite
+- 💻 Interested in web development and building applications
+- 🌱 Exploring backend development and full-stack technologies
+- 🐧 Linux user
+- 🧩 Learning by building and experimenting
 
 ## 💻 Tech Stack
 
